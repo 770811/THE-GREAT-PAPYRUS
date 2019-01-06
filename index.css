@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+#img1 {
+    opacity: 0;
+}
+#img:hover {
+    opacity: 1;
+}
